@@ -1,4 +1,4 @@
-###Hipmunk - Hotel Search
+### Hipmunk - Hotel Search
 
 Made using Flask
 
